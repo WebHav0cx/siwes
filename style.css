@@ -114,6 +114,10 @@ form {
   border-radius: 20px;
 }
 
+label{
+  color: var(--default-black);
+}
+
 .wave label {
   margin-bottom: 5px;
 }
