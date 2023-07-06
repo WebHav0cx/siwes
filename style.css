@@ -155,6 +155,7 @@ form {
 .wave input[type="text"] {
   background-color: var(--default-white);
   width: 500px;
+  color: var(--default-black);
   padding: 5px;
   margin-bottom: 18px;
   border: none;
